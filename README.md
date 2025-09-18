@@ -4,4 +4,4 @@
 2. ***Grado y grupo: 5-D***
 3. ***Numero de Control: 23308060610314***
 4. ***Especialidad: programacion***
-5. ![Imagen de mi](https://i.pinimg.com/736x/d0/43/c9/d043c969d23fb815ba3c27b5ba8847bc--chow-puppies-puppys.jpg)
+5. ![Imagen de mi]()
