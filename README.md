@@ -4,4 +4,5 @@
 2. ***Grado y grupo: 5-D***
 3. ***Numero de Control: 23308060610314***
 4. ***Especialidad: programacion***
-5. ![Imagen de mi]()
+5. Foto de mi
+6. ![Imagen de mi](yo.jpg)
